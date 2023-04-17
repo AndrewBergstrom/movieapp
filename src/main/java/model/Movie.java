@@ -1,4 +1,4 @@
-package com.ajb.movieapp;
+package model;
 
 import lombok.Data;
 

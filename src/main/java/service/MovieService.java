@@ -1,6 +1,6 @@
 package service;
 
-import com.ajb.movieapp.Movie;
+import model.Movie;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
