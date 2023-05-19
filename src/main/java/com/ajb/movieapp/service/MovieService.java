@@ -46,9 +46,5 @@ public class MovieService {
                 .retrieve()
                 .bodyToMono(Movie.class);
 
-//        System.out.println(response.bodyToMono(String.class));
-//        response.bodyToMono(String.class).subscribe(System.out::println);
-//        return response.bodyToMono(Movie.class);
-
     }
 }
